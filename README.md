@@ -50,3 +50,8 @@ Those who could benefit from refinancing to save money on interest payments.
 ```
 https://ffiec.cfpb.gov/v2/data-browser-api/view/csv
 ```
+
+## Repository Contents
+- hmda_data - storage folder for raw HMDA data collected by Jupyter notebook
+- HMDA Exploratory Data Analysis.ipynb - Main analysis Jupyter notebook file, open with [Jupyter Notebook](https://jupyter.org/)
+- hmda_lib.py - supporting Python module used by Jupyter notebook
