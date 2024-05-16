@@ -1,3 +1,12 @@
+label_dict = {
+    1: 'Home purchase',
+    2: 'Home improvement',
+    4: 'Other purpose',
+    5: 'Not applicable',
+    31: 'Refinancing',
+    32: 'Cash-out refinancing'
+}
+
 valid_state_codes = [
     "AL",
     "AK",
