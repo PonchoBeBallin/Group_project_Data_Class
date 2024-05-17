@@ -55,3 +55,5 @@ https://ffiec.cfpb.gov/v2/data-browser-api/view/csv
 - hmda_data - storage folder for raw HMDA data collected by Jupyter notebook
 - HMDA Exploratory Data Analysis.ipynb - Main analysis Jupyter notebook file, open with [Jupyter Notebook](https://jupyter.org/)
 - hmda_lib.py - supporting Python module used by Jupyter notebook
+- Project Proposal.pdf - PDF copy of the project proposal
+- Presentation.pdf - PDF copy of the project presentation
